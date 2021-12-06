@@ -44,7 +44,7 @@ jobs:
         with:
           ci-owner: Injuly-box
           ci-repository: flask-demo-kustomize-master
-          ci-ref: refs/heads/master
+          ci-ref: refs/heads/main
           ci-user: Injuly-box
           ci-user-token: ${{ secrets.CI_TOKEN }}
           ci-name: CI
